@@ -94,7 +94,7 @@ function draw() {
       particle = null; 
     }
   }
-  console.log(turn);
+  //console.log(turn);
 
   
   if(turn>5){
